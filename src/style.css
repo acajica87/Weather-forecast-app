@@ -2,6 +2,7 @@ body {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/105/291/original/pexels-johannes-plenio-1118873.jpg?1701227151");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   font-family: "Roboto", sans-serif;
 }
 
